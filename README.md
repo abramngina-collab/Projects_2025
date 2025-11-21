@@ -1,2 +1,4 @@
-# Projects_2025
-There are my first projects attempts, most are in python
+#These projects is a number guessing game.
+It allows the user to enter their names and choose the level of the game they would like to participate in.
+Note: each level has a certain number of chances allowed
+
